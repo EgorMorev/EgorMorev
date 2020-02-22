@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.main {
+    background-color: #ffffff;
+    
+}
+.item {
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+}
